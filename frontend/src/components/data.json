@@ -2,9 +2,9 @@
   {
     "id": 1,
     "name": "Avik Ghatak",
-    "subject": "Testing mail 1 nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn",
+    "subject": "Testing mail 1",
     "scheduled": "10 July 12:00",
-    "cc": "kkc",
+    "cc": "",
     "body": "abcd"
   },
   {
@@ -12,24 +12,24 @@
     "name": "Ramyanil Raha",
     "subject": "Testing mail 2",
     "scheduled": "10 July 12:00",
-    "cc": "kkc",
+    "cc": "",
     "body": "abcd There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etclor There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc"
   },
 
   {
     "id": 3,
-    "name": "KKC",
+    "name": "Avik Ghatak",
     "subject": "Testing mail 3",
-    "scheduled": "10 July 12:00",
-    "cc": "kkc",
-    "body": "abcd"
+    "scheduled": "17 Dec 16:00",
+    "cc": "",
+    "body": "Testing"
   },
   {
     "id": 4,
-    "name": "Ayush Pratap Singh",
+    "name": "Aditi Jha",
     "subject": "Testing mail 4",
-    "scheduled": "10 July 12:00",
-    "cc": "kkc",
-    "body": "abcd"
+    "scheduled": "17 July 22:00",
+    "cc": "",
+    "body": "Testing mail scheduler"
   }
 ]
