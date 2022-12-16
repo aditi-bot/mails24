@@ -1,7 +1,7 @@
 import "./History.css";
 import React, { useState } from "react";
 import { HistoryContent } from "./HistoryContent";
-import data from "../data2.json";
+import data from "../data.json";
 import Modal from "../Modal/Modal";
 import { FaSearch } from "react-icons/fa";
 
