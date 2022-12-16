@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../Home css/Home.css";
 import { Content } from "./Content";
-import data from "../../data.json";
+import data from "../../data2.json";
 
 import { FaSearch } from "react-icons/fa";
 import Modal from "../../Modal/Modal";
